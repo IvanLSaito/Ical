@@ -1,0 +1,16 @@
+C:\Projects\icalFirstTry\icalFirstTry\bin\Debug\icalFirstTry.exe.config
+C:\Projects\icalFirstTry\icalFirstTry\bin\Debug\icalFirstTry.exe
+C:\Projects\icalFirstTry\icalFirstTry\bin\Debug\icalFirstTry.pdb
+C:\Projects\icalFirstTry\icalFirstTry\bin\Debug\Ical.Net.dll
+C:\Projects\icalFirstTry\icalFirstTry\bin\Debug\NodaTime.dll
+C:\Projects\icalFirstTry\icalFirstTry\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Projects\icalFirstTry\icalFirstTry\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Projects\icalFirstTry\icalFirstTry\bin\Debug\Ical.Net.pdb
+C:\Projects\icalFirstTry\icalFirstTry\bin\Debug\Ical.Net.xml
+C:\Projects\icalFirstTry\icalFirstTry\bin\Debug\NodaTime.pdb
+C:\Projects\icalFirstTry\icalFirstTry\bin\Debug\NodaTime.xml
+C:\Projects\icalFirstTry\icalFirstTry\obj\Debug\icalFirstTry.csprojAssemblyReference.cache
+C:\Projects\icalFirstTry\icalFirstTry\obj\Debug\icalFirstTry.csproj.CoreCompileInputs.cache
+C:\Projects\icalFirstTry\icalFirstTry\obj\Debug\icalFirstTry.csproj.CopyComplete
+C:\Projects\icalFirstTry\icalFirstTry\obj\Debug\icalFirstTry.exe
+C:\Projects\icalFirstTry\icalFirstTry\obj\Debug\icalFirstTry.pdb
